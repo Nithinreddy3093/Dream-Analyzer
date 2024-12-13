@@ -2,7 +2,7 @@
 
 A modern web application for analyzing and interpreting dreams using AI-powered insights, built with React, TypeScript, and Tailwind CSS.
 
-! [Dream Analysis App [https://dream-analyzer-nithin.netlify.app/](https://dream-analyzer-nithin.netlify.app/)
+**[Visit the Application Here](https://dream-analyzer-nithin.netlify.app/)**
 
 ## Features
 
